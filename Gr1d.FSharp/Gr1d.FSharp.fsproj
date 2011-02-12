@@ -21,7 +21,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <WarningLevel>3</WarningLevel>
     <DocumentationFile>bin\Debug\Gr1d.FSharp.XML</DocumentationFile>
-    <OtherFlags>--keyfile:"C:\Users\Chris\Documents\My Dropbox\Dev\Gr1d\Gr1d.CSharp\key.snk"</OtherFlags>
+    <OtherFlags>--keyfile:"..\Gr1d.CSharp\key.snk"</OtherFlags>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
